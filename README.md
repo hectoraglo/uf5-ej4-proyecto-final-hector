@@ -11,7 +11,8 @@ Aqui estan els jugadors que ha aquesta temporada han jugat tab be que semblava q
 ![imatge](https://github.com/user-attachments/assets/c6465b30-e77c-45a5-8862-ae9c26b26299)
 
 Aqui estan el millors jugadors de la Liga
-![imatge](https://github.com/user-attachments/assets/3d5d3f57-27dd-40ec-87aa-987c73e40933)
+![imatge](https://github.com/user-attachments/assets/f8a162c6-1fcb-4c21-972a-607a0afe783a)
+
 
 Aqui un petit apartat de contacte 
 ![imatge](https://github.com/user-attachments/assets/c056bf9b-e3c6-4a2e-953e-b67d5e87e440)
