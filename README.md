@@ -1,3 +1,5 @@
+La meva pagina es sobre la Liga 
+
 Aqui tenim l'inici amb algunes noticies interesants de la Liga
 ![imatge](https://github.com/user-attachments/assets/eff833ed-1e7c-4773-bb26-5189eda61f3c)
 
